@@ -15,6 +15,7 @@
 
 # MTK VTService
 /system/bin/vtservice u:object_r:vtservice_exec:s0
+/system_ext/bin/vtservice u:object_r:vtservice_exec:s0
 
 # MTK ATCI
 /system/bin/atci_service_sys u:object_r:atci_service_sys_exec:s0
